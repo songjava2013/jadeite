@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/songjava2013/jadeite.git"
   },
+  "dependencies": {
+  	"meow": "^3.6.0"
+  },
   "author": "song yuan",
   "license": "MIT",
   "bugs": {
